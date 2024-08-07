@@ -1,0 +1,12 @@
+1) ai will generate the message.
+
+1.5) generate the type of message where it will generate emotions + text
+
+2) generate the text to audio(mp3) file.
+https://www.npmjs.com/package/@diffusionstudio/vits-web
+
+3) convert mp3 file to wav file.
+
+4) convert this wav file to json file with rhubarb lipsync library.
+
+5) sent it to frontend.
